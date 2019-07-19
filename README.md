@@ -12,7 +12,7 @@ Vorlesung: Di 10-12; L155 (Axel Wisiorek)
 
 Übung: Mi 08:30-10:00; L155 (Martin Schmitt) 
 
-Tutorium: Fr 17:00-18:30 ??; L155 (Swantje Kastrup) 
+Tutorium: folgt (Swantje Kastrup) 
 - bei Fragen oder Anmerkungen Mail an Swantje Kastrup mit folgendem Betreffschema: "Tutorium Syntax: Sitzungsdatum | Anmerkung" 
 
 ## Themen:
