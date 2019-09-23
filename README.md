@@ -46,7 +46,7 @@ Tutorium: folgt (Swantje Kastrup)
 
 | Datum  | Klausur | 
 | ------------- | ------------- | 
-| Mi, 05.02.20 | Klausur (8-10 Uhr, L155) | 
+| folgt |  | 
 
 
 ## Literatur:
