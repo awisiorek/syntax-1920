@@ -12,8 +12,8 @@ Vorlesung: Di 10-12; L155 (Axel Wisiorek)
 
 Übung: Mi 08:30-10:00; L155 (Martin Schmitt) 
 
-Tutorium: folgt (Swantje Kastrup) 
-- bei Fragen oder Anmerkungen Mail an Swantje Kastrup mit folgendem Betreffschema: "Tutorium Syntax: Sitzungsdatum | Anmerkung" 
+Tutorium: Fr 16-18; U139 (Swantje Kastrup) 
+- bei Fragen oder Anmerkungen Mail an Swantje Kastrup mit folgendem Betreffschema: "Tutorium Syntax: Sitzungsdatum |Thema" 
 
 ## Themen:
 
@@ -40,7 +40,7 @@ Tutorium: folgt (Swantje Kastrup)
 | Di, 07.01.20| 11. PCFGs |  
 | Di, 14.01.20| 12. Statistische Modelle | 
 | Di, 21.01.20| 13. Partielles Parsing  | 
-| Di, 28.01.20| Wiederholung (+ "Parsing mit neuronalen Netzwerken")  | 
+| Di, 28.01.20| Wiederholung  | 
 | Di, 04.02.20| Fragen  | 
 
 
