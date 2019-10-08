@@ -15,6 +15,14 @@ Vorlesung: Di 10-12; L155 (Axel Wisiorek)
 Tutorium: Fr 16-18; U139 (Swantje Kastrup) 
 - bei Fragen oder Anmerkungen Mail an Swantje Kastrup mit folgendem Betreffschema: "Tutorium Syntax: Sitzungsdatum |Thema" 
 
+
+## Moodle-Kursseite:
+
+**https://moodle.lmu.de/course/view.php?id=5786**
+
+- Die Anmeldung ist verpflichtend. Aktuelle Mitteilungen sowie die Verwaltung der Informatik-Hauptfach-Studierenden erfolgen hier.
+- Hauptfach-spezifische **Einschreibeschlüssel werden in der Vorlesung bekanntgegeben**.
+
 ## Themen:
 
 - **Syntax: Linguistische und formale Grundlagen**
