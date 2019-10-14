@@ -51,6 +51,9 @@ Tutorium: Fr 16-18; U139 (Swantje Kastrup)
 | Di, 04.02.20| Fragen  | 
 
 
+## Klausur:
+
+
 | Datum  | Klausur | 
 | ------------- | ------------- | 
 |  29.01.2019 | Mi, 08-10 Uhr (L155)  | 
