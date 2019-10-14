@@ -10,10 +10,9 @@
 
 Vorlesung: Di 10-12; L155 (Axel Wisiorek)
 
-Übung: Mi 08:30-10:00; L155 (Martin Schmitt) 
+Übung: Mi 08:30-10:00; L155 (Martin Schmitt)
 
-Tutorium: Fr 16-18; U139 (Swantje Kastrup) 
-- bei Fragen oder Anmerkungen Mail an Swantje Kastrup mit folgendem Betreffschema: "Tutorium Syntax: Sitzungsdatum |Thema" 
+Tutorium: Fr 16-18; U139 (Swantje Kastrup)
 
 
 ## Moodle-Kursseite:
@@ -54,7 +53,7 @@ Tutorium: Fr 16-18; U139 (Swantje Kastrup)
 
 | Datum  | Klausur | 
 | ------------- | ------------- | 
-| folgt |  | 
+|  29.01.2019 | Mi, 08-10 Uhr (L155)  | 
 
 
 ## Literatur:
