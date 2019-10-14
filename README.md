@@ -46,9 +46,8 @@ Tutorium: Fr 16-18; U139 (Swantje Kastrup)
 | Di, 17.12.19| 10. Parsing Unifikation |  
 | Di, 07.01.20| 11. PCFGs |  
 | Di, 14.01.20| 12. Statistische Modelle | 
-| Di, 21.01.20| 13. Partielles Parsing  | 
-| Di, 28.01.20| Wiederholung  | 
-| Di, 04.02.20| Fragen  | 
+| Di, 21.01.20| 13. Partielles Parsing / Klausurvorbereitung  | 
+| Di, 28.01.20| Klausurvorbereitung  | 
 
 
 ## Klausur:
