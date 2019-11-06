@@ -30,7 +30,7 @@ blatt3_8a = [
 ]
 
 blatt3_8b = [
-    [MultipleChoice("Was leistet die Funktion <code>nltk.similar()</code>?", correct=["Zu einem Wort wird ein Index seiner Kontexte aufgebaut.", "Zu einem Wort werden alle Wörter gefunden, die in gleichen Kontexten vorkommen."], wrong=["Zu einem Wort werden alle Synonyme gefunden.", "Zu einem Wort werden seine Kookkurrenzpartner gefunden."], inst=single)]
+    [MultipleChoice("Was leistet die Funktion <code>nltk.similar()</code>?", correct=["Zu einem Wort wird ein Index seiner Kontexte aufgebaut.", "Zu einem Wort werden alle Wörter gefunden, die in gleichen Kontexten vorkommen."], wrong=["Zu einem Wort werden alle Synonyme gefunden.", "Zu einem Wort werden seine Kookkurrenzpartner gefunden."], inst=multiple)]
 ]
 
 blatt3_8c = [
