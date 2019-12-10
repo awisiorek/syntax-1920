@@ -6,6 +6,10 @@
 *Centrum für Informations- und Sprachverarbeitung, LMU München*
 
 
+## Aktuelles:
+
+***Bitte beachten Sie die aktuellen Hinweise zu Wiederholungsaufgaben und Klausur in Moodle!***
+
 ## Termine:
 
 Vorlesung: Di 10-12; L155 (Axel Wisiorek)
