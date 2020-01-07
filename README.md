@@ -48,7 +48,7 @@ Tutorium: Fr 16-18; U139 (Swantje Kastrup)
 | Di, 03.12.19| 8. Wortstellung + komplexe Sätze |   
 | Di, 10.12.19| 9. Parsing CFGs |  
 | Di, 17.12.19| 10. Parsing Unifikation |  
-| Di, 07.01.20| 11. PCFGs |  
+| Di, 07.01.20| 11. PCFGs + Dependency Parsing |  
 | Di, 14.01.20| 12. Statistische Modelle | 
 | Di, 21.01.20| 13. Partielles Parsing / Klausurvorbereitung  | 
 | Di, 28.01.20| Klausurvorbereitung  | 
